@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(){
-    printf("Привет, Я Рустам");
+    printf("Привет Мир я 22з !");
 }
